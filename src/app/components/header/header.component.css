@@ -1,0 +1,12 @@
+.container-master {
+  display: flex;
+  padding: 1.34rem 3.62rem;
+}
+
+.container-logo-and-navbar {
+  display: flex;
+  align-items: center;
+  gap: 2.81rem;
+}
+
+/*# sourceMappingURL=header.component.css.map */

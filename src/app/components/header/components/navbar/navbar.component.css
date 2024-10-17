@@ -1,0 +1,12 @@
+nav {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 0.8rem;
+}
+
+/*# sourceMappingURL=navbar.component.css.map */

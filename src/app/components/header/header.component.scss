@@ -1,0 +1,26 @@
+@import "../../../themes/variables.scss";
+
+.container-master{
+  position: fixed;
+  width: 100%;
+  display: flex;
+  padding: 1.34rem 3.62rem;
+
+  justify-content: space-between;
+  background-color: transparent;
+}
+
+.container-logo-and-navbar{
+  display: flex;
+  align-items: center;
+  gap: 2.81rem;
+
+  img{
+    transition: 0.4s;
+    cursor: pointer;
+
+    &:hover{
+      transform: scale(1.1);
+    }
+  }
+}
